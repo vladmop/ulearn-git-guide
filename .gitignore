@@ -1,0 +1,10 @@
+# Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore
+
+# Примеры правил
+*.swp
+[Rr]elease/
+/tmp/**
+/logs/*
+!logs/.gitkeep
+
+secrets.txt
